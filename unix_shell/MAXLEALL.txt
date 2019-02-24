@@ -1,0 +1,6 @@
+Comoros	2007	65.152
+Honduras	2007	70.198
+Mauritius	2007	72.801
+Netherlands	2007	79.762
+Philippines	2007	71.688
+United_States	2007	78.242
